@@ -1,7 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Global container reference
-    const container = document.querySelector('#container');
-    
     createGrid(16);
     
     // Create controls container
